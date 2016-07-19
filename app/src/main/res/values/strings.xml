@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Garden App</string>
+    <string name="my_garden">My Garden</string>
+    <string name="picture_wildflowers">picture of wildflowers</string>
+
+    <string name="januar_text"><b>It\'s winter!</b> \nDon\'t forget to remove snow from roofs, plants and paths
+        \ndo the winter cut on your fruit trees\nstart sowing tomatos, bell pepper and annual summerflowers on your window sill
+        \nif you have a nesting box outside: check if it is clean and has enough birdseed
+        \nyour compost could do with a good stir and sieving </string>
+
+    <string name="february_text"><b>It is still cooooold...</b> \n think about the poor little starving birds and put birdseeds into the nesting boxes
+        \nnow it is time for prepare the soil for the closer getting garden season
+        \nif the soil is not deeply frozen you can prepare the first plant holes for March and April
+        \nif you have italian grape-vine now is the time to trim it!</string>
+
+    <string name="march_text"><b>Spring is coming! Or is it really?</b> \nThe ground and soil is slowly starting to warm up, you can start preparing the first sowing like cauliflower, parsley and parsnips
+        \nLet early potatoes bud on your window sill
+        \nprepare the soil in your potatoe bed
+        \nfertilise your fruit trees and
+        \nput up some insect hotels for some buzzing and action in spring and summer!</string>
+
+    <string name="april_text"><b>Sun! Rain! Hail! Frost! </b>
+        \nit\'s time to sow your potatoes into the prepared soil!
+        \nhave a look at your herbs: now is the time to cut, plant or sow your thyme, salvia, rosemary, oregano and mint
+        \nif you plan on having (more) fruit trees or bushes: now is the time them</string>
+    <string name="may_text"><b>Last but not least...</b></string>
+    <string name="june_text"><b>BLINDTEXT</b></string>
+    <string name="july_text"><b>BLINDTEXT</b></string>
+    <string name="august_text"><b>BLINDTEXT</b></string>
+    <string name="september_text"><b>BLINDTEXT</b></string>
+    <string name="october_text"><b>BLINDTEXT</b></string>
+    <string name="november_text"><b>BLINDTEXT</b></string>
+    <string name="december_text"><b>BLINDTEXT</b></string>
+    <string name="january"><b>January</b></string>
+    <string name="february"><b>February</b></string>
+    <string name="march"><b>March</b></string>
+    <string name="april"><b>April</b></string>
+    <string name="may"><b>May</b></string>
+    <string name="june"><b>June</b></string>
+    <string name="july"><b>July</b></string>
+    <string name="august"><b>August</b></string>
+    <string name="september"><b>September</b></string>
+    <string name="october"><b>October</b></string>
+    <string name="november"><b>November</b></string>
+    <string name="december"><b>December</b></string>
+
+    <string name="flowers"><b>flowers</b></string>
+    <string name="calender">calender</string>
+    <string name="plants">plants</string>
+    <string name="back">back</string>
+
+
+</resources>
