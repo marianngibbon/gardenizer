@@ -26,9 +26,13 @@
     <string name="may_text"><b>Last but not least...</b>\nIt\'s May after all! Not long and you can buy and maybe pick your first strawberries!
         \nOne vegetable which is now ready to be picked and prepared is rhubarb, perfect for compot, cake or chutney.
         \nput the potatoes into the wonderfully prepared bed, it is very important to pile the soil very well, don\'t let the potatoes get ruined by the sun
-        \nkeep your plants safe from snails, which are now coming out, hungry for freshly growing vegetables...</string>
+        \nkeep your plants safe from snails, which are now coming out, hungry for freshly growing vegetables...
+        \nkeep all plants humid</string>
 
-    <string name="june_text"><b>Hallo</b></string>
+    <string name="june_text"><b>Strawberry paradise!</b>
+        \nBut before your start picking and eating there is a bit of work to do:
+        \nstart cultivating salad
+        \n</string>
     <string name="july_text"><b>Hallo2</b></string>
     <string name="august_text"><b>BLINDTEXT</b></string>
     <string name="september_text"><b>BLINDTEXT</b></string>
