@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Garden App</string>
+    <string name="app_name">Gardenizer</string>
     <string name="my_garden">My Garden</string>
     <string name="picture_wildflowers">picture of wildflowers</string>
 
@@ -23,8 +23,12 @@
         \nit\'s time to sow your potatoes into the prepared soil!
         \nhave a look at your herbs: now is the time to cut, plant or sow your thyme, salvia, rosemary, oregano and mint
         \nif you plan on having (more) fruit trees or bushes: now is the time them</string>
-    <string name="may_text"><b>Last but not least...</b></string>
-    <string name="june_text"><b>BLINDTEXT</b></string>
+    <string name="may_text"><b>Last but not least...</b>\nIt\'s May after all! Not long and you can buy and maybe pick your first strawberries!
+        \nOne vegetable which is now ready to be picked and prepared is rhubarb, perfect for compot, cake or chutney.
+        \nput the potatoes into the wonderfully prepared bed, it is very important to pile the soil very well, don\'t let the potatoes get ruined by the sun
+        \nkeep your plants safe from snails, which are now coming out, hungry for freshly growing vegetables...</string>
+
+    <string name="june_text"><b>Hallo</b></string>
     <string name="july_text"><b>BLINDTEXT</b></string>
     <string name="august_text"><b>BLINDTEXT</b></string>
     <string name="september_text"><b>BLINDTEXT</b></string>
@@ -44,10 +48,15 @@
     <string name="november"><b>November</b></string>
     <string name="december"><b>December</b></string>
 
-    <string name="flowers"><b>flowers</b></string>
+    <string name="flowers"><b>Flowers</b></string>
     <string name="calender">calender</string>
     <string name="plants">plants</string>
     <string name="back">back</string>
+    <string name="bushes">Bushes</string>
+    <string name="bushes_text">BLINDTEXT</string>
+    <string name="fruittree">Fruit Trees</string>
+    <string name="fruittree_text">BLINDTEXT</string>
+
 
 
 </resources>

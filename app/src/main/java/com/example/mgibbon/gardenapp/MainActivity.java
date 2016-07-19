@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
     TextView novemberDescription;
     TextView decemberDescription;
     TextView flowersDescription;
+    TextView bushesDescription;
+    TextView fruittreeDescription;
     LinearLayout calenderOverview;
     TextView mainHeadline;
     RelativeLayout buttons;
@@ -45,6 +47,8 @@ public class MainActivity extends AppCompatActivity {
         novemberDescription = (TextView) findViewById(R.id.november_text);
         decemberDescription = (TextView) findViewById(R.id.december_text);
         flowersDescription = (TextView) findViewById(R.id.flowers_text);
+        bushesDescription = (TextView) findViewById(R.id.bushes_text) ;
+        fruittreeDescription = (TextView) findViewById(R.id.fruittree_text);
         calenderOverview = (LinearLayout) findViewById(R.id.calender);
         mainHeadline = (TextView) findViewById(R.id.my_garden);
         buttons = (RelativeLayout) findViewById(R.id.buttons);
@@ -89,6 +93,8 @@ public class MainActivity extends AppCompatActivity {
             mainHeadline.setVisibility(View.VISIBLE);
             buttons.setVisibility(View.VISIBLE);
             flowersDescription.setVisibility(View.GONE);
+            bushesDescription.setVisibility(View.GONE);
+            fruittreeDescription.setVisibility(View.GONE);
         } else {
             plants.setVisibility(View.VISIBLE);
             mainHeadline.setVisibility(View.GONE);
@@ -204,11 +210,25 @@ public class MainActivity extends AppCompatActivity {
      * toggle plants texts visible/invisible
      */
     public void toggleFlowersText(View view) {
-        TextView textView = (TextView) findViewById(R.id.flowers_text);
-        if (textView.getVisibility() == View.VISIBLE) {
-            textView.setVisibility(View.GONE);
+        if (flowersDescription.getVisibility() == View.VISIBLE) {
+            flowersDescription.setVisibility(View.GONE);
         } else {
-            textView.setVisibility(View.VISIBLE);
+            flowersDescription.setVisibility(View.VISIBLE);
+        }
+    }
+
+    public void toggleBushesText(View view) {
+        if (bushesDescription.getVisibility() == View.VISIBLE) {
+            bushesDescription.setVisibility(View.GONE);
+        } else {
+            bushesDescription.setVisibility(View.VISIBLE);
+        }
+    }
+    public void toggleFruitTreeText(View view) {
+        if (fruittreeDescription.getVisibility() == View.VISIBLE) {
+            fruittreeDescription.setVisibility(View.GONE);
+        } else {
+            fruittreeDescription.setVisibility(View.VISIBLE);
         }
     }
 
