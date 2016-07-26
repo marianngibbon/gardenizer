@@ -505,7 +505,7 @@
                     android:layout_marginTop="1dp"
                     android:background="@color/background_months"
                     android:padding="15dp"
-                    android:text="@string/flowers"
+                    android:text="@string/flowers_text"
                     android:textColor="@color/text_months"
                     android:textSize="25sp"
                     android:visibility="gone" />

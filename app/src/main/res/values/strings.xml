@@ -32,13 +32,60 @@
     <string name="june_text"><b>Strawberry paradise!</b>
         \nBut before your start picking and eating there is a bit of work to do:
         \nstart cultivating salad
-        \n</string>
-    <string name="july_text"><b>Hallo2</b></string>
-    <string name="august_text"><b>BLINDTEXT</b></string>
-    <string name="september_text"><b>BLINDTEXT</b></string>
-    <string name="october_text"><b>BLINDTEXT</b></string>
-    <string name="november_text"><b>BLINDTEXT</b></string>
-    <string name="december_text"><b>BLINDTEXT</b></string>
+        \npick some elderberry blossoms and make some yummy syrup
+        \nget that weed out of the ground before its seeds are getting ripe
+        \nvegetables to be planted in june: salad, leek, broccoli, herb, sellerie, courgettes (however better results maybe achieved when planting in MAY!
+        \nthe perennial herbs are getting high, you should consider propping them so that they don\'t collaps
+         </string>
+
+    <string name="july_text"><b>Summer is finally there!</b>
+        \nenjoy harvesting the first vegetables and fruit and then don\'t forget to dung the harvested beds
+        \nif your weed beds are exploding crop them and dry some weed. Or freeze it!
+        \nyoung fruit trees need to be kept free from gras
+        \nsummercut on your sweet cherry trees
+        \ncut your perennial herbs and roses to stimulate more blossoms
+        \npick a bunch of flowers and enjoy them on your coffee table</string>
+
+    <string name="august_text"><b>And apple a day...</b>
+        \ntime to pick your first apples, plums and summer pears
+        \nprepare a new strawberry field for next year
+        \ntime to harvest rose hips - try them in jam for example!
+        \nkeep the compost moist
+        \nsow some winter herbs
+        \nif it\'s a hot and dry summer put up a bird bath</string>
+    <string name="september_text"><b>Prepare for the colder days</b>
+        \nharvest your potatoes, you\'ll be surprised how much you get out of one single planted potatoe!
+        \nonions should be ready as well
+        \nif you\'re lucky you have some raspberries waiting for you
+        \nprepare a new bed for perennial herbs
+        \nget out the tulip bulbs which will double after a year and divide them. Then plant them in fresh soil.
+        \nTIPP: if you plant them within a plastic flower pot they will be safe from getting eaten by root voles or other animals and it will be easy for you to find them next autumn. </string>
+
+    <string name="october_text"><b>Autumn is coming!</b>
+        \nnow the sometimes rough but at the same time cosy season is starting
+        \nthere is still something to harvest like walnuts and other nuts, some potatoes might still be there
+        \ntry to collect snail eggs and get rid of them
+        \n gather leaves and put it on the compost
+        \nnow is the time to plant roses and tulip bulbs
+        \nstart putting sensitive plants in pots inside
+        \n </string>
+
+    <string name="november_text"><b>BRRRRRRRRR</b>
+        \nprepare your harvested vegetable beds for winter
+        \nfirst frost might be coming so pour the water out of watering cans and rain barrels
+        \nclean and put away your gardening tools
+        \nplant rhubarb now
+        \nWinter cut for fruit trees
+        \nput away your garden chairs and tables
+        \nprotect sensitive plants from frost</string>
+
+    <string name="december_text"><b>Save the birds!</b>
+        \nnot much active gardening work to do, BUT
+        \nyou can plan for next year: which plants would you like to plant?
+        \nput up some new high beds
+        \nenjoy winter, bake some cookies and go to a bunch of x-mas markets
+        \n(oh, and don\'t forget to buy lots of presents)</string>
+
     <string name="january"><b>January</b></string>
     <string name="february"><b>February</b></string>
     <string name="march"><b>March</b></string>
@@ -53,6 +100,8 @@
     <string name="december"><b>December</b></string>
 
     <string name="flowers"><b>Flowers</b></string>
+    <string name="flowers_text"><b>Bring colour into your garden</b>
+        \n</string>
     <string name="calender">calender</string>
     <string name="plants">plants</string>
     <string name="back">back</string>
