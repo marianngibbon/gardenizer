@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Gardenizer</string>
-    <string name="my_garden">My Garden</string>
+    <string name="my_garden">Gardenizer</string>
     <string name="picture_wildflowers">picture of wildflowers</string>
 
     <string name="januar_text"><b>It\'s winter!</b> \nDon\'t forget to remove snow from roofs, plants and paths
@@ -46,7 +46,7 @@
         \ncut your perennial herbs and roses to stimulate more blossoms
         \npick a bunch of flowers and enjoy them on your coffee table</string>
 
-    <string name="august_text"><b>And apple a day...</b>
+    <string name="august_text"><b>An apple a day...</b>
         \ntime to pick your first apples, plums and summer pears
         \nprepare a new strawberry field for next year
         \ntime to harvest rose hips - try them in jam for example!
@@ -101,14 +101,19 @@
 
     <string name="flowers"><b>Flowers</b></string>
     <string name="flowers_text"><b>Bring colour into your garden</b>
-        \n</string>
+        \nthere are several kinds of flowers, some coming back every year - like roses and tulips - and yearly flowers like sunflowers
+        \nflowers are not only beautiful but also attract bees, humming birds and butterflies, whom they need to transfer the pollens  </string>
     <string name="calender">calender</string>
     <string name="plants">plants</string>
     <string name="back">back</string>
     <string name="bushes">Bushes</string>
-    <string name="bushes_text">BLINDTEXT</string>
-    <string name="fruittree">Fruit Trees</string>
-    <string name="fruittree_text">BLINDTEXT</string>
+    <string name="bushes_text"><b>bush or shrub</b>\na bush or shrub is a small to medium sized woody plant
+        \nsounds a bit like a tree but other than a tree it has multiple stems and is shorter of height.</string>
+    <string name="fruittree">Trees</string>
+    <string name="fruittree_text"><b>What is a tree?</b>
+        \naccording to Wikipedia there is no universally recognised precise definition of what a tree is, either botanically or in common language
+        \nhowever we love fruittrees in our gardens! Providing us with fresh, juicy, sweet fruit
+        \nbroadleaf trees are lovely as well but make a hell lot of work in autumn...</string>
 
 
 
